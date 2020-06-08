@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Open Note",
+        "command": "switch-note:open"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "switch-note",
+          "submenu": [
+            {
+              "label": "Open",
+              "command": "switch-note:open"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "switch-note",
+  "main": "./lib/switch-note",
+  "version": "0.1.0",
+  "description": "Quickly switch between notes",
+  "keywords": [],
+  "repository": "https://github.com/heathyboyj/inkdrop-switch-note",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+    "semantic-ui-react": "0.88.2"
+  }
+}
