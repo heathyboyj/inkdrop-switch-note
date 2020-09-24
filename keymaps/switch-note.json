@@ -1,6 +1,6 @@
 {
   "body": {
-    "ctrl-shift-o": "switch-note:open",
-    "cmd-shift-o": "switch-note:open"
+    "ctrl-alt-o": "switch-note:open",
+    "cmd-alt-o": "switch-note:open"
   }
 }
